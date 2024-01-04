@@ -1,4 +1,4 @@
-#Sentiment Analysis with Sarcasm Detection 
+Sentiment Analysis with Sarcasm Detection 
 
 This repository implements sentiment analysis with a 5-class classification and sarcasm detection using DistilBERT from Hugging Face. The analysis is performed on the Amazon Customer Reviews dataset 
 dataset:https://www.kaggle.com/datasets/bittlingmayer/amazonreviews/code
